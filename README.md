@@ -1,7 +1,20 @@
-# -Full-Stack-Webpage-for-a-hospital-department-Gynecology-
+# Full Stack Webpage for a hospital department Gynecology
 
-Data base web application for gynecology department
-# References
+Web application for gynecology department built with flask and mySQL
+
+# Table of Contents
+  - [Features](#features)
+  - [References](#references)
+  - [Team members](#team-members)
+
+## Features
+  - Different views for Doctors, Nurses, Patients and Admin
+  - View appointments for both doctors and patients
+  - View available slots for admin
+  - Link to google calendar for both doctors and patients
+
+
+## References
 •	https://www.flaticon.com/
 <br>
 •	https://www.w3schools.com/default.asp
@@ -20,7 +33,7 @@ Data base web application for gynecology department
 <br>
 •	https://colorlib.com/wp/free-booking-form-templates/
 <br>
-# Team Members
+## Team Members
 •Abdullah Ahmed Fouad (1200812)
 <br>
 •Hana Mahmoud Ahmed Fares (1200919)
@@ -31,6 +44,3 @@ Data base web application for gynecology department
 <br>
 •Omar Ahmed AbdelAzeem (1190161)
 <br>
-
-
-
